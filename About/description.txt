@@ -1,0 +1,8 @@
+	- A, what is it and what will it be, in the most straightforward terms?
+It is three different spaces from small to big connect together. The main character will start from the small place to go foward to the biggest place within the limit time. He can walk through without any interaction with other, or he can slow down his pace to try to talk to the A.I. or interact with the item.
+	- B, feasibility, what will you need to figure out how to do?
+How to make the A.I. can talk to the main character?
+How to make the time limit?
+	- C, relate your project to 1+ readings; how does your project speak to it?
+Plato's "Allegory of the Cave" 
+The hero in the game, will start to trigger different item and people to get the information. However, when he get to the limbo of the world he will find out he is not in the box in Unity 3d.
